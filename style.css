@@ -1,0 +1,100 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+.container-top
+{
+    background: linear-gradient(#176B87,#64CCC5);
+    height: 100vh
+    
+    
+}
+h1
+{
+    font-size: 50px;
+    margin: 0px;
+    padding-top: 25%;
+    color: white;
+    
+}
+hr
+{
+ overflow: hidden;
+ border: none;
+ height: 60vh;
+}
+.me-photo
+{
+    width: 200px;
+    border-radius: 60%;
+    border-style: solid;
+    border-width: 2px;
+}
+.profile
+{
+    font-size: 25px;
+}
+
+.skills
+{
+    margin-top: -40vh;
+    
+}
+.skills-container
+{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.Tester-pic
+{
+    width: 200px;height: 170px;
+    display: inline-block;
+    border-radius: 25%;
+    border: solid;
+}
+
+.designer-pic{
+    width: 200px;height: 200px;
+    display: inline-block;
+    border-radius: 25%;
+    border: solid;
+}
+.footer
+{
+    background-color: #64CCC5;
+    padding: 50px;
+}
+ul
+{
+    list-style-type: none;
+    color: white;
+}
+li
+{
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    color: black;
+}
+.facebook-emoje:hover
+{
+    color: black;
+}
+.instagram
+{
+    padding-left: 10px;
+}
